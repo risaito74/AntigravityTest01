@@ -1,6 +1,9 @@
 # 概要
 
-note：AntigravityでUnityのほぼ初期状態から何かを作ってみる
+このリポジトリは、Antigravityを使ってUnityで「左クリックで反時計回り／右クリックで時計回り」のCube回転を実装した検証プロジェクトです。
+詳細な手順とログはnote記事を参照してください。
+
+- note：AntigravityでUnityのほぼ初期状態から何かを作ってみる
 
 https://note.com/inu94suno/n/ndd31eebae8e0
 
